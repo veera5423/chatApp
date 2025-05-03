@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.main {
+    @apply md:gap-x-4 md:flex md:flex-row md:px-12 md:mt-5 md:w-full
+    /* lg:mt-[10rem]  lg:px-32 */
+    lg:gap-x-10 xl:gap-96 xl:p-12 xl:px-[8rem] lg:mt-[90px] lg:ml-16
+}
+
+.login {
+    @apply flex justify-center items-center flex-col mt-5 mx-4 bg-white border-2 border-gray-300 rounded-lg p-5 gap-3 md:w-full xl:w-[130%] xl:h-[100%]
+}
+
+
+
+input {
+    @apply border-2 border-gray-300 rounded-lg p-2 w-full mb-2 focus:outline-none focus:border-[#2C3E50]
+    /* lg:h-[12%] */
+}
+
+.head {
+    @apply text-2xl font-bold lg:text-3xl
+}
+
+span {
+    @apply text-sm text-gray-500 cursor-pointer hover:text-blue-500 hover:underline lg:text-lg
+}
+
+button {
+    @apply bg-[#3498DB] text-[#ECF0F1] p-2 rounded-lg px-6 font-bold hover:bg-[#2980B9] lg:p-3 lg:px-8 lg:text-lg
+}

@@ -1,0 +1,10 @@
+.Navbar{
+    @apply bg-[#2C3E50] text-[#ECF0F1] h-12
+}
+.Navbar ul{
+    @apply flex justify-between
+}
+.Navbar li{
+    @apply list-none
+}
+
