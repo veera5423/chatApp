@@ -42,7 +42,7 @@ A full-stack real-time chat application built with **React**, **Node.js**, and *
 ## 📸 Demo
 
 > _Coming soon: short video or screenshots_  
-> [Live App Link](https://your-deployed-url.netlify.app) _(Replace this with your actual link)_
+
 
 ---
 
@@ -51,6 +51,6 @@ A full-stack real-time chat application built with **React**, **Node.js**, and *
 ### Backend
 
 ---bash
-cd server
+cd backend
 npm install
 npm start
