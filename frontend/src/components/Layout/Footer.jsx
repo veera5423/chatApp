@@ -24,7 +24,7 @@ const Footer = () => {
                     <div className="footer-contact">
                         <h2 className="text-xl font-bold mb-4">Contact Us</h2>
                         <ul className="space-y-2 text-gray-300">
-                            <li>Phone: +91 8919964929</li>
+                            <li>Phone: +91 1234567890/li>
                             <li>Email: support@veeravox.com</li>
                             <li>Address: Guntur, AndhraPradesh, India</li>
                         </ul>
@@ -43,7 +43,7 @@ const Footer = () => {
 
             <div className="border-t border-gray-700 mt-8 pt-8 text-center">
                 <p className="text-gray-300">
-                    Made with ❤️ by Veeranjaneyulu.V | &copy; {new Date().getFullYear()} VeeraVox. All rights reserved.
+                    Made with ❤️ by Veeranjaneyulu.V | &copy; 2025 VeeraVox. All rights reserved.
                 </p>
             </div>
         </div>
