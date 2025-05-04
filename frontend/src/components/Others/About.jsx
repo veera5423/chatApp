@@ -63,7 +63,7 @@ const About = () => {
             <h3 className="text-xl font-semibold text-gray-800">Contact Information</h3>
             <div className="space-y-2 text-gray-600">
               <p>Email: support@veeravox.com</p>
-              <p>Phone: +91 8919964929</p>
+              <p>Phone: +91 1234567890</p>
               <p>Location: Guntur, AndhraPradesh, India</p>
             </div>
           </section>
